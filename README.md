@@ -6,10 +6,15 @@
 
 Dieser Mod ist eine überarbeitete Version der `localization-string-tables-german(de)_assets_all.bundle`-Datei. Diese Datei enthält alle Texte des Spiels. Um den Mod anzuwenden, muss die Originaldatei mit der überarbeiteten Datei hier überschrieben werden.
 
+Der Mod gilt für folgende Spielversionen:
+* Gog: `Version: 1.0.5-p27.1`
+* Steam: Change Number `25384363`
+
 ### Anleitung
 
-Achtung: Diese Anleitung gilt bis auf Weiteres für die Steam-Version des Spiels!
+Diese Anleitung gilt für
 
+* Lade die richtige Version `localization-string-tables-german(de)_assets_all.bundle` runter.
 * Gehe zu deinem Eiyuden-Chronicle-Ordner (`\SteamLibrary\steamapps\common\Eiyuden Chronicle - Hundred Heroes\`).
 * Gehe dann zu `\EiyudenChronicle_Data\StreamingAssets\aa\StandaloneWindows64`
 * Wichtig: Kopiere die vorliegende `localization-string-tables-german(de)_assets_all.bundle`-Datei als Backup! Speicher sie z. B. in einem Ordner außerhalb von Steam in deinen eigenen Dateien.
